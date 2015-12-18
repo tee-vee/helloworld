@@ -31,3 +31,10 @@ myFavoriteFunction()
 {
     char x = "hello";
 }
+
+
+FavoriteFunction()
+{
+    char x = "hello";
+}
+
