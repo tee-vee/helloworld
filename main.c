@@ -27,11 +27,6 @@ int main()
 
 }
 
-testFunction()
-{
-    int z =0;
-}
-
 myFavoriteFunction()
 {
     char x = "hello";
